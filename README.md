@@ -9,7 +9,7 @@
 
 ## Introduction
 
-You've been hired as a developer to write the code for a cutting edge shoes
+You've been hired a developer to write the code for a cutting edge shoes
 website: ZHW. Somehow, without being able to program it themselves, the company
 has provided a complete image for what the site should look like once the HTML
 and CSS has been updated:
